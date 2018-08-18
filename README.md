@@ -1,2 +1,2 @@
 # python-requests-demo
-Somes practiced demo of learning requests
+Somes practiced demos for learning requests
